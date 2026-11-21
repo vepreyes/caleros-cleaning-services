@@ -1,0 +1,20 @@
+Calero's Cleaning Services LLC — web (plantilla Freshbrook, uiCookies)
+======================================================================
+Estado: 21-nov-2026 ~04:40 — las 5 páginas adaptadas y verificadas.
+Páginas: index, pricing (cotización), booking (reserva), carpet (alfombras y pisos) y contact — todas bilingües ES/EN y con formularios a Formspree.
+
+Lo que se adaptó:
+- Nombre, logo, colores de marca (azul marino #24486a + dorado #c9a227).
+- Los 10 servicios de Calero's, en español e inglés (botón ES/EN arriba).
+- Teléfono (704) 387-1705 y correo caleroscleaningservices@gmail.com.
+- Formularios conectados a Formspree (https://formspree.io/f/mkjrvbrk):
+  el de la página principal y el de Cotización ya envían al correo del negocio.
+- Fotos: logo, imagen de la carretera-S y las 5 fotos de stock elegidas por Victor.
+- Sin precios fijos: Calero's da cotizaciones personalizadas.
+  No hay reseñas ni cifras inventadas (la plantilla traía reseñas falsas: se quitaron).
+
+Para probar: descomprimir y abrir index.html en Chrome.
+Para publicar: subir a GitHub Pages o Netlify (gratis) cuando Victor lo decida.
+
+Pendiente (no inventar): precios fijos de algunos servicios, visto bueno de
+Lesly a la frase de inicio, fotos reales de Lesly (reemplazan al stock).

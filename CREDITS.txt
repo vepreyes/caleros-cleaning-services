@@ -1,0 +1,78 @@
+Placeholder photography
+=======================
+
+Every photograph here is CC0 / Public Domain Mark, sourced via the
+Openverse API — no attribution required, commercial use fine. Where no
+public-domain photograph matched a slot, the file is a generated gradient
+instead; those are marked below and carry no rights at all.
+
+Either way these are placeholders: replace them with your own photography
+before launch. Provenance for each file follows.
+
+hero.jpg
+  Interior Design
+  CC0 1.0
+  https://stocksnap.io/photo/interior-design-HIH67XC5G0
+
+svc-regular.jpg
+  Coffee tables potted plants, two
+  CC0 1.0
+  https://www.rawpixel.com/image/3303422/free-photo-image-dining-table-home-decoration-book-images-photos
+
+svc-deep.jpg
+  Farmhouse Kitchen
+  CC0 1.0
+  https://stocksnap.io/photo/farmhouse-kitchen-QSX4WH8BDB
+
+svc-tenancy.jpg
+  Free empty living room image
+  CC0 1.0
+  https://www.rawpixel.com/image/5903577/photo-image-public-domain-house-living-room
+
+svc-carpet.jpg
+  Free vacuum cleaner image
+  CC0 1.0
+  https://www.rawpixel.com/image/5903507/photo-image-public-domain-room-free
+
+svc-office.jpg
+  Interior Design
+  CC0 1.0
+  https://stocksnap.io/photo/interior-design-478BZDEA2Y
+
+bathroom.jpg
+  Bath Towels
+  CC0 1.0
+  https://stocksnap.io/photo/bath-towels-AXKFEL7HBL
+
+eco.jpg
+  Free green plant window image
+  CC0 1.0
+  https://www.rawpixel.com/image/5914899/image-public-domain-plant-green
+
+carpet-hero.jpg
+  Abstract texture desktop wallpaper, high
+  CC0 1.0
+  https://www.rawpixel.com/image/6169636/photo-image-background-wallpaper-desktop
+
+compare.jpg
+  Traditional red carpet
+  CC0 1.0
+  https://www.rawpixel.com/image/6040082/photo-image-public-domain-pattern-room
+
+sofa.jpg
+  Sofa Couch
+  CC0 1.0
+  https://www.rawpixel.com/image/5969574/sofa-couch
+
+bedroom.jpg
+  Bed Table
+  CC0 1.0
+  https://stocksnap.io/photo/bed-table-FND1JADL6W
+
+contact.jpg
+  bright yellow door center frame
+  CC0 1.0
+  https://www.rawpixel.com/image/5927901/photo-image-public-domain-house-door
+
+Note: the "before" half of the comparison slider on carpet.html is the same
+compare.jpg / sofa.jpg photo with a CSS filter and stain overlay applied.
